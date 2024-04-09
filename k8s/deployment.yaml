@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: passin
-          image: danielrodriguess/nlw.service.passin:2359810
+          image: alexandrekumagae/nlw.service.passin:ca18661
           env:
           - name: DATABASE_URL
             valueFrom:

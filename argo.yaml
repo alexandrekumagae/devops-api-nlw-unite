@@ -8,7 +8,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:rocketseat-education/nlw-unite-devops.git
+    repoURL: git@github.com:alexandrekumagae/devops-api-nlw-unite.git
     targetRevision: HEAD
     path: deploy
   destination:
